@@ -5,8 +5,7 @@ It looks like:
 
 https://github.com/tatyanaivanouskaya/ArtSpace/blob/master/Art_Space.gif
 
-![image](https://user-images.githubusercontent.com/49280040/206464320-48b04f6f-2883-4860-9a3c-4d6eb3aeae35.png)
-![image](https://user-images.githubusercontent.com/49280040/206464320-48b04f6f-2883-4860-9a3c-4d6eb3aeae35.png)
+https://github.com/tatyanaivanouskaya/ArtSpace/blob/953cda0ee9b67b6e1f284c7539b36d1044022321/Art_Space.gif
 
 
 
