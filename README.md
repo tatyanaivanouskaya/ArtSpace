@@ -5,7 +5,7 @@ It looks like:
 
 https://github.com/tatyanaivanouskaya/ArtSpace/blob/master/Art_Space.gif
 
-https://github.com/tatyanaivanouskaya/ArtSpace/blob/953cda0ee9b67b6e1f284c7539b36d1044022321/Art_Space.gif
+
 
 
 
